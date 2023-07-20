@@ -187,7 +187,7 @@ static SyncErrorInfo sync_error_info_tbl[] = {
     {
         SYNC_ERROR_ID_CHECKOUT_FILE,
         SYNC_ERROR_LEVEL_FILE,
-        "Failed to checkout file on the client. Please check disk space or folder permissions"
+        "Failed to download file. Please check disk space or folder permissions"
     },
 };
 
